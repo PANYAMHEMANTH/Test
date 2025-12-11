@@ -96,7 +96,7 @@ I am a **Full-Stack Developer** focused on high-performance, real-time architect
 <a href="https://github.com/PANYAMHEMANTH/Test/blob/main/Cambridge%20lingua%20skills.pdf">
 <img src="https://github.com/PANYAMHEMANTH/Test/blob/8613210bffb006be2be5f3dbf7e1fbd46e396991/cambridge.png"  width="12%"/>
   </a>
-  <a href="https://g.dev/panyamhemanth">
+  <a href="https://developers.google.com/profile/u/panyamhemanth">
   <img src="https://github.com/PANYAMHEMANTH/Test/blob/8613210bffb006be2be5f3dbf7e1fbd46e396991/google.png" width="25%" />
 </a>
   <a href="https://cs50.harvard.edu/certificates/87732942-8b2b-4e17-a9c6-07c370bd8c51">
