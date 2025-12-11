@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- New centered starting GIF -->
-  <img src="https://github.com/PANYAMHEMANTH/Test/blob/main/3d_globe_roates_202512111517.gif" alt="Futuristic Digital Rain - Coding Vision" width="500" />
+<!--  <img src="https://github.com/PANYAMHEMANTH/Test/blob/main/3d_globe_roates_202512111517.gif" alt="Futuristic Digital Rain - Coding Vision" width="500" /> -->
 
   <br/>
   <br/>
