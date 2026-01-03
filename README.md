@@ -106,11 +106,13 @@ I am a **Full-Stack Developer** focused on high-performance, real-time architect
 <a href="https://www.hackerrank.com/certificates/7a347f3bb4e5">
     <img src="https://github.com/PANYAMHEMANTH/PANYAMHEMANTH/blob/main/hack.png" width="20%" />
 </a>
-<a href="https://cs50.harvard.edu/certificates/87732942-8b2b-4e17-a9c6-07c370bd8c51">
+<a href="https://leetcode.com/u/Hemanth_0000/">
   <img src="https://github.com/PANYAMHEMANTH/PANYAMHEMANTH/blob/main/leetc.png" width="20%" />
 </a>
 <br />
-
+<a href="https://learn.opswatacademy.com/certificate/LCJYDTP3YQ">
+  <img src="https://github.com/PANYAMHEMANTH/PANYAMHEMANTH/blob/main/icip.png" width="20%" />
+</a>
 </div>
 
 <br />
